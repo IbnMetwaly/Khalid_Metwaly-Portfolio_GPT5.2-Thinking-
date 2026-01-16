@@ -1,4 +1,15 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Khalid Metwaly Portfolio
+
+Professional portfolio website built with Next.js 16, showcasing 13+ years of educational leadership and innovation in Arabic language education.
+
+## Features
+
+- ✨ Modern, responsive design with dark/light mode
+- 🎭 Smooth animations with Framer Motion
+- 📊 Interactive timeline and impact metrics
+- 🏆 Awards & recognition showcase
+- 💬 Professional testimonials
+- 📧 Contact form
 
 ## Getting Started
 
